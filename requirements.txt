@@ -1,0 +1,14 @@
+# Core dependencies
+streamlit==1.32.0
+opencv-python==4.9.0.80
+mediapipe==0.10.9
+Pillow==10.2.0
+numpy==1.26.4
+
+# Google Generative AI
+google-generativeai==0.3.2
+
+# Optional dependencies for better performance
+python-dotenv==1.0.1
+protobuf==4.25.3
+attrs==23.2.0
